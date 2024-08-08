@@ -1,0 +1,21 @@
+.loading-message {
+    font-style: italic;
+    color: #999;
+    margin-left: 10px;
+    padding: 3px;
+    background-color: #c9c8c8;
+    border-radius: 12px;
+  }
+  
+  .deleting {
+    color: red;
+  }
+  
+  .toggling {
+    color: rgb(255, 149, 0);
+  }
+  
+  .loading {
+    color: rgb(0, 0, 252);
+  }
+  
